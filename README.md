@@ -12,7 +12,11 @@ My experience includes researching vulnerabilities in a modern JavaScript engine
 - Fuzzing and program analysis
 - AI-assisted vulnerability research
 
-## 💻 Software engineering projects
+## 💻 Projects
+
+### CVE Lab
+
+A private research project where I review open-source software, validate potential vulnerabilities in isolated environments, and report confirmed findings through coordinated disclosure.
 
 ### Super Savers
 
