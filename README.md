@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the National University of Singapore, focused on vulnerability research and application security.
 
-My experience includes researching vulnerabilities in JavaScript engine, security testing Android applications, and evaluating AI-assisted approaches to vulnerability research. I also build full-stack applications and security automation.
+My experience includes researching vulnerabilities in Web Browsers, security testing Android applications, and evaluating AI-assisted approaches to vulnerability research. I also build full-stack applications and security automation.
 
 ## 🔬 Security interests
 
