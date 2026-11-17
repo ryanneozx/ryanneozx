@@ -2,14 +2,13 @@
 
 I'm a Computer Science student at the National University of Singapore, focused on vulnerability research and application security.
 
-My experience includes researching vulnerabilities in a modern JavaScript engine, testing Android applications with Frida, and evaluating AI-assisted approaches to vulnerability research. I also build full-stack applications and security automation.
+My experience includes researching vulnerabilities in JavaScript engine, security testing Android applications, and evaluating AI-assisted approaches to vulnerability research. I also build full-stack applications and security automation.
 
 ## 🔬 Security interests
 
-- JavaScript engine and browser security
+- Browser security
 - Vulnerability discovery and exploitation
 - Mobile security and dynamic instrumentation
-- Fuzzing and program analysis
 - AI-assisted vulnerability research
 
 ## 💻 Projects
